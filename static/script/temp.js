@@ -1,0 +1,1 @@
+var doc_info = "Arthritis?35?Dr..Mohammad Ali Akbar Sarkar?1715360163?Vill- Chawgacha, PO& Upazilla- Gangni, Meherpur."
